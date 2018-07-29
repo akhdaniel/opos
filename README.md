@@ -1,5 +1,9 @@
 # OPOS
-Odoo pos with PHP
+Odoo pos with PHP.
+
+Use the software at your own risk.
+
+Is you need detailed technical information or training, please contact the author directly.
 
 # INSTALLATION MANUAL
 
