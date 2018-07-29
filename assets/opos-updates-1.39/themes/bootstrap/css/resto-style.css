@@ -1,0 +1,132 @@
+@media (min-width: 480px) and (max-width: 950px) {
+	#page {
+	  padding-top:0px !important;
+	}
+}
+
+@media (min-width: 951px){
+	#page {
+	  padding-top:50px !important;
+	}
+}
+
+
+h1 {
+	font-size: 14pt;
+}
+
+.navbar .brand {
+	padding: 5px 20px 5px 0px ;
+}
+
+input.cash-control{
+	margin:0px;
+	padding:0px;
+	text-align: right;
+}
+
+.pad{
+	background-color:#F5F5F5;
+}
+
+.numeric-keypad button {
+  font-size:120% !important;
+  margin-bottom:3px !important;
+  padding:7% inherit !important;
+}
+
+.product_div{
+	border-left: #DDDDDD 1px solid;
+}
+
+.product_screen {
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin: 1px 1px;
+}
+
+.thumbnail{
+	padding: 2px !important;
+	min-height: 120px;
+	max-height: 120px;
+}
+
+.thumbnail .caption {
+	margin-top: 3px;
+	background-color: #F5F5F5;
+  	color:#000;
+  	padding:4px;
+  	text-align: left;
+  	vertical-align: middle;
+  	max-height: 37px;
+  	min-height: 37px;
+}
+
+.caption p{
+	margin:0 0 2px;
+	font-size:12px;
+}
+
+.stock_none{
+	background-color: #DA4F49;
+}
+
+.stock_none a{
+	color: #fff !important;
+}
+
+.stock_none a:hover, .stock_none a:focus {
+  background-color: #DA4F49 !important;
+}
+
+ul.yiiPager .first, ul.yiiPager .last {
+	display: none;
+}
+
+.waiting {
+	background-color: #ECD678;
+}
+
+.onprogress {
+	background-color: #88CCF1;
+}
+
+.done {
+	background-color: #B8D8BA;
+}
+
+.delivered {
+	background-color: #FFFFFF;
+}
+
+#product-grid{
+	margin-left: 10px !important;
+	padding-top: 0px !important;
+}
+
+#product_name{
+	color: #333333;
+	font-weight: bold;
+}
+
+.grid-view table.items tr.selected td, .table-hover tbody tr:hover td, .table-hover tbody tr:hover th {
+  background-color: #0D324D;
+  color: #ffffff;
+}
+
+.bootstrap-widget {
+	margin-bottom:0px !important;
+}
+
+.searchbar{
+	margin-bottom:0px !important;
+}
+
+.grid-view {
+  padding-top:0px !important;
+}
+
+form {
+  margin:0 0 0px !important;
+}

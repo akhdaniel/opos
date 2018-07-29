@@ -1,0 +1,70 @@
+
+#page {
+    padding-top: 60px;
+}
+
+
+h1 {
+	font-size: 14pt;
+}
+
+.navbar .brand {
+	padding: 5px 20px 5px 0px ;
+}
+
+input.cash-control{
+	margin:0px;
+	padding:0px;
+	text-align: right;
+}
+
+.pad{
+	background-color:#F5F5F5;
+}
+
+.numeric-keypad button {
+  font-size:120% !important;
+  margin-bottom:3px !important;
+  padding:7% inherit !important;
+}
+
+.product_div{
+	border-left: #DDDDDD 1px solid;
+}
+
+#page {
+  padding-top:50px;
+}
+
+.product_screen {
+	float: left;
+	width: 20%;
+	text-align: center;
+	margin: 1px 1px;
+}
+
+.thumbnail{
+	padding: 2px !important;
+	min-height: 120px;
+	max-height: 120px;
+}
+
+.thumbnail .caption {
+	margin-top: 3px;
+	background-color: #F5F5F5;
+  	color:#000;
+  	padding:4px;
+  	text-align: left;
+  	vertical-align: middle;
+  	max-height: 37px;
+  	min-height: 37px;
+}
+
+.caption p{
+	margin:0 0 2px;
+	font-size:12px;
+}
+
+ul.yiiPager .first, ul.yiiPager .last {
+	display: none;
+}

@@ -1,0 +1,45 @@
+body
+{
+	background: #ddd;
+	font-family: verdana;
+	font-size: 10pt;	
+}
+label{
+	font-size: 10pt;	
+}
+table{
+	padding:10pt;
+	width:100%;
+}
+#InstallDatabaseForm
+{
+	background: #fff;
+	margin:auto;
+	margin-top:50px;
+	border: 1px solid grey;
+	width: 500px;
+	padding: 13px 23px;
+}
+#border
+{
+	margin: 10px 10px 10px 10px; background: #fff; border: 1px solid #e5e5e5;
+	-moz-box-shadow: rgba(200,200,200,1) 0 4px 18px; -webkit-box-shadow: rgba(200,200,200,1) 0 4px 18px; 
+	-moz-border-radius: 10px; -webkit-border-radius: 10px;
+}
+#write
+{
+	color:#529214;
+	font-weight:bold;
+	padding:10px;
+}
+#read
+{
+	color:#FFCC00;
+	font-weight:bold;
+	padding:10px;
+}
+#begin{
+	padding:10px;
+	color: blue;
+	font-size: 14pt;	
+}
